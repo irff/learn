@@ -41,6 +41,23 @@ Update terakhir (7 Oktober 2014)
 - [An Introduction to the User Experience](http://courses.theteamw.com/an-introduction-to-the-user-experience)
 - [Tutsplus: UX Foundation](https://webdesign.tutsplus.com/series/ux-foundations--webdesign-8418)
 
+### Teori Warna
+- [Color Matters](http://colormatters.com/)
+- [Rocket Design: Color Template](http://www.rocket-design.fr/color-template/)
+- [Hailpixel: Colorpicking Tool](http://color.hailpixel.com/)
+- [Colour Code](http://colourco.de/)
+- [Adobe Kuler](https://color.adobe.com/create/color-wheel/)
+- [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+- [iOS 7 Colors](http://ios7colors.com/)
+- [Flat UI Colors](http://flatuicolors.com/)
+- [Inspiration: Design Seeds](http://design-seeds.com/)
+- [Inspiration: Colour Lovers](http://www.colourlovers.com/)
+- [Inspiration: Color Combos](http://www.colorcombos.com/)
+
+#### Teori Warna: Bacaan
+- [Tutsplus: Introduction to Color Theory for Web Designers](http://webdesign.tutsplus.com/articles/an-introduction-to-color-theory-for-web-designers--webdesign-1437)
+- [Smashing Magazine: Color Theory for Designers](http://www.smashingmagazine.com/2010/01/28/color-theory-for-designers-part-1-the-meaning-of-color/)
+
 ### Koleksi & Inspirasi
 - [Media Queries](http://mediaqueri.es/)
 - [CSS Design Awards](http://cssdesignawards.com/)
