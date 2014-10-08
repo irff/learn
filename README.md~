@@ -22,8 +22,22 @@ Update terakhir (7 Oktober 2014)
 - [Pure CSS](http://purecss.io/)
 - [Bourbon](http://bourbon.io/)
 
+### CSS Preprocessor
+- [SASS](http://sass-lang.com/)
+- [LESS](http://lessjs.org/)
+- [Stylus](http://learnboost.github.io/stylus/)
+
+
 ### CSS Architecture
+- [Object Oriented CSS](http://oocss.org/)
+- [BEM (Block, Element, Modifier)](http://bem.info/)
+- [SMACSS](http://smacss.com/)
 - [DoCSSa](http://docssa.info/)
+- [Multilayer CSS](http://operatino.github.io/MCSS/en/)
+
+#### CSS Architecture: Bacaan
+- [Sitepoint: CSS Architecture](http://www.sitepoint.com/series/css-architectures/)
+- [Modular View CSS](http://mvcss.github.io/)
 
 ## Web Design
 ### Tutorial & Guide

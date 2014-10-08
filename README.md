@@ -16,14 +16,28 @@ Update terakhir (7 Oktober 2014)
 - [Tutsplus: CSS3 Mastery](http://code.tutsplus.com/series/css3-mastery--net-18126)
 - [Learn CSS Layout](http://learnlayout.com/)
 
-### CSS Framework
+### Framework CSS
 - [Bootstrap](http://getbootstrap.com/)
 - [Foundation](http://foundation.zurb.com/)
 - [Pure CSS](http://purecss.io/)
 - [Bourbon](http://bourbon.io/)
 
-### CSS Architecture
+### Preprosesor CSS
+- [SASS](http://sass-lang.com/)
+- [LESS](http://lessjs.org/)
+- [Stylus](http://learnboost.github.io/stylus/)
+
+
+### Arsitektur CSS
+- [Object Oriented CSS](http://oocss.org/)
+- [BEM (Block, Element, Modifier)](http://bem.info/)
+- [SMACSS](http://smacss.com/)
 - [DoCSSa](http://docssa.info/)
+- [Multilayer CSS](http://operatino.github.io/MCSS/en/)
+
+#### Arsitektur CSS: Bacaan
+- [Sitepoint: CSS Architecture](http://www.sitepoint.com/series/css-architectures/)
+- [Modular View CSS](http://mvcss.github.io/)
 
 ## Web Design
 ### Tutorial & Guide
