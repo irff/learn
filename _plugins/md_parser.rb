@@ -1,3 +1,5 @@
+require 'kramdown'
+
 module Jekyll
   class MarkdownBlock < Liquid::Block
     def initialize(tag_name, text, tokens)
