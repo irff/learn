@@ -29,6 +29,7 @@ order: 2
 - [Adobe Kuler](https://color.adobe.com/create/color-wheel/)
 - [Paletton](http://paletton.com/)
 - [0 to 255](http://0to255.com/)
+- [Colllor](http://colllor.com/)
 - [Coleure](https://www.coleure.com/)
 - [iOS 7 Colors](http://ios7colors.com/)
 - [Brand Colors](http://brandcolors.net/)
