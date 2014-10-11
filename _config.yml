@@ -1,1 +1,4 @@
-markdown: kramdown
+collections:
+  kanal:
+    output: true
+baseurl: "http://start.learn.id"

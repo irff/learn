@@ -1,45 +1,11 @@
-Learn
-=====
-Portal pembelajaran pengembangan web online. Link dikurasi oleh @irfan-
-Update terakhir (7 Oktober 2014)
-
-
-## HTML & CSS
-### Tutorial HTML & CSS Dasar
-- [Shay Howe: Learn to Code HTML & CSS](http://learn.shayhowe.com/)
-- [Web Platform CSS Tutorial](http://docs.webplatform.org/wiki/css/tutorials)
-
-### CSS Lanjut
-- [The Magic of CSS](http://adamschwartz.co/magic-of-css/)
-
-### CSS3
-- [Tutsplus: CSS3 Mastery](http://code.tutsplus.com/series/css3-mastery--net-18126)
-- [Learn CSS Layout](http://learnlayout.com/)
-
-### Framework CSS
-- [Bootstrap](http://getbootstrap.com/)
-- [Foundation](http://foundation.zurb.com/)
-- [Pure CSS](http://purecss.io/)
-- [Bourbon](http://bourbon.io/)
-
-### Preprosesor CSS
-- [SASS](http://sass-lang.com/)
-- [LESS](http://lessjs.org/)
-- [Stylus](http://learnboost.github.io/stylus/)
-
-
-### Arsitektur CSS
-- [Object Oriented CSS](http://oocss.org/)
-- [BEM (Block, Element, Modifier)](http://bem.info/)
-- [SMACSS](http://smacss.com/)
-- [DoCSSa](http://docssa.info/)
-- [Multilayer CSS](http://operatino.github.io/MCSS/en/)
-
-#### Arsitektur CSS: Bacaan
-- [Sitepoint: CSS Architecture](http://www.sitepoint.com/series/css-architectures/)
-- [Modular View CSS](http://mvcss.github.io/)
+---
+layout: kanal
+title: Web Design
+order: 2
+---
 
 ## Web Design
+
 ### Tutorial & Guide
 - [Hack Design](http://hackdesign.org/courses/)
 - [GoodUI](http://www.goodui.org/)
@@ -90,30 +56,6 @@ Update terakhir (7 Oktober 2014)
 - [Dribbble](https://dribbble.com/)
 - [Behance](https://www.behance.net/)
 
-## Web Development
-### Responsive Design
-- [Build a Responsive Website in a Week](https://github.com/paulrobertlloyd/roadtrip)
-
-
-### Version Control
-- [Free eBook: Learn Version Control with Git](http://www.git-tower.com/learn/)
-- [Free eBook: Pro Git](http://git-scm.com/book)
-
-
-## Lainnya
-### Web Standard
-- [Web Standard Curricullum](http://teach.webstandards.org/curriculum/)
-
-### Online Course
-- [Treehouse](http://teamtreehouse.com/)
-- [Code School](https://www.codeschool.com/)
-- [Codecademy](http://www.codecademy.com/)
-- [Tutsplus](http://tutsplus.com/)
-- [Thinkful](http://www.thinkful.com/learn)
-- [Lynda](http://www.lynda.com/)
-- [Udemy](https://www.udemy.com/)
-- [UIE: UX Design All You Can Learn](http://aycl.uie.com/)
-
 ### Conference & Talk Videos
 - [99U](http://99u.com/)
 - [Creative Mornings](http://creativemornings.com/)
@@ -134,14 +76,3 @@ Update terakhir (7 Oktober 2014)
 - [Generate Conf](http://www.generateconf.com/Content/Videos/2/)
 - [Oredev Conference](http://vimeo.com/user4280938)
 - [Web Conferences Amsterdam](http://vimeo.com/webconferences)
-
-### Referensi & Dokumentasi
-- [DevDocs](http://devdocs.io/)
-- [Web Platform](http://www.webplatform.org/)
-- [SASS Documentation](http://sass-lang.com/documentation/)
-- [Wordpress Codex](http://codex.wordpress.org/)
-- [Emmet Docs](http://docs.emmet.io/)
-
-### Tempat Melatih Skill
-- [Code Wars](https://www.codewars.com/users/sign_in)
-- [Typekit Typography Practice](http://practice.typekit.com/)

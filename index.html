@@ -1,12 +1,16 @@
 ---
-layout: default
-title: Learn
+title: Learn.id
 ---
+<h1>learn.id</h1>
+Portal pembelajaran online. Materi dikurasi oleh <a href="http://twitter.com/irfan3">irfan3</a>. Update terakhir: 11 Oktober 2014.
 
+
+<h2>Kanal</h2>
 <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
+{% assign kanal = (site.kanal | sort: 'order') %}
+{% for kan in kanal %}
+	<li>
+		<a href="{{ kan.url }}">{{ kan.title }}</a>
+	</li>
+{% endfor %}
 </ul>
