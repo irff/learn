@@ -34,7 +34,7 @@ order: 2
 - [Inspiration: Colour Lovers](http://www.colourlovers.com/)
 - [Inspiration: Color Combos](http://www.colorcombos.com/)
 
-#### Teori Warna: Bacaan
+### Teori Warna: Bacaan
 - [Tutsplus: Introduction to Color Theory for Web Designers](http://webdesign.tutsplus.com/articles/an-introduction-to-color-theory-for-web-designers--webdesign-1437)
 - [Smashing Magazine: Color Theory for Designers](http://www.smashingmagazine.com/2010/01/28/color-theory-for-designers-part-1-the-meaning-of-color/)
 
@@ -76,3 +76,25 @@ order: 2
 - [Generate Conf](http://www.generateconf.com/Content/Videos/2/)
 - [Oredev Conference](http://vimeo.com/user4280938)
 - [Web Conferences Amsterdam](http://vimeo.com/webconferences)
+
+### Podcast
+- [The Big Web Show](http://5by5.tv/bigwebshow)
+- [Boagworld](http://www.boagworld.com/)
+- [Happy Monday](http://happymondaypodcast.com/)
+- [Shoptalk](http://shoptalkshow.com/)
+- [Let's Make Mistakes](http://www.muleradio.net/mistakes/)
+- [Web Friends](http://goodstuff.fm/webfriends)
+- [The Rissington Podcast](http://therissingtonpodcast.co.uk/)
+- [Web Axe (Web Accessibility)](http://webaxe.blogspot.com/)
+- [Rookie Designer](http://www.rookiedesigner.com/rookie/)
+- [You Suck at Web Design](http://www.yousuckatwebdesign.com/)
+
+
+### Videocast
+- [Web Design TV](http://www.netmag.co.uk/zine/podcast)
+- [Creative Suite Podcast](http://creativesuitepodcast.com/)
+- [Photoshop User TV](http://www.photoshopusertv.com/)
+- [Layers TV](http://www.layersmagazine.com/tv.html)
+- [Pixel Perfect](http://revision3.com/pixelperfect/)
+- [Photoshop Killer Tips](http://www.photoshopkillertips.com/)
+- [You Suck at Photoshop](http://www.mydamnchannel.com/Big_Fat_Brain/You_Suck_at_Photoshop/YouSuckAtPhotoshop10_615.aspx)

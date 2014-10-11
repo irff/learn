@@ -23,3 +23,20 @@ order: 3
 - [SASS Documentation](http://sass-lang.com/documentation/)
 - [Wordpress Codex](http://codex.wordpress.org/)
 - [Emmet Docs](http://docs.emmet.io/)
+
+### Podcast
+- [Audible AJAX](http://ajaxian.com/podcast/)
+- [Javascript Jabber](http://javascriptjabber.com/)
+- [Descriptive (Javascript)](http://descriptive.audio/)
+- [Back to Front Show](http://backtofrontshow.com/)
+- [Lullabot](http://www.lullabot.com/audiocast)
+- [The Wordpress Podcast](http://wp-community.org/)
+- [Joomla Juice](http://www.joomlajuice.com/)
+- [The Web 2.0 Show](http://web20show.com/)
+- [Apply Filters (Wordpress)](http://applyfilters.fm/)
+- [Five Minutes of Javascript](http://five-js.envylabs.com/)
+- [In Beta](http://5by5.tv/inbeta)
+
+### Videocast
+- [Lynda.com](http://www.lynda.com/podcasts/)
+- [Build Podcast](http://build-podcast.com/)
