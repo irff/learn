@@ -136,11 +136,10 @@ order: 2
 - [Unfinished Business](http://www.unfinished.bz/)
 - [The Freelance Web](http://www.thefreelanceweb.com/)
 - [Iterate](http://www.imore.com/iterate)
-- [The Rissington Podcast](http://therissingtonpodcast.co.uk/)
-- [Web Axe (Web Accessibility)](http://webaxe.blogspot.com/)
 - [Rookie Designer](http://www.rookiedesigner.com/rookie/)
 - [You Suck at Web Design](http://www.yousuckatwebdesign.com/)
 - [The Industry Podcast](http://theindustry.cc/category/podcast/)
+- [The Rissington Podcast (Tamat)](http://therissingtonpodcast.co.uk/)
 
 
 ### Videocast

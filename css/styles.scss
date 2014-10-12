@@ -75,8 +75,10 @@ header, footer {
 	background-color: $primary;
 	color: $white;
 	a {
-		border-bottom: 1px solid $white;
-		color: $white;
+		&:link {
+			border-bottom: 1px solid $white;
+			color: $white;			
+		}
 		&:visited {
 			color: $white;
 			border-bottom: 1px solid $white;

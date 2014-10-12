@@ -58,13 +58,11 @@ order: 3
 - [Emmet Docs](http://docs.emmet.io/)
 
 ### Podcast
-- [Audible AJAX](http://ajaxian.com/podcast/)
 - [Javascript Jabber](http://javascriptjabber.com/)
 - [Descriptive (Javascript)](http://descriptive.audio/)
 - [Back to Front Show](http://backtofrontshow.com/)
 - [The Web Ahead](http://5by5.tv/webahead)
 - [Lullabot](https://www.lullabot.com/blog/podcasts)
-- [Joomla Juice](http://www.joomlajuice.com/)
 - [The Web 2.0 Show](http://web20show.com/)
 - [Apply Filters (Wordpress)](http://applyfilters.fm/)
 - [Five Minutes of Javascript](http://five-js.envylabs.com/)
