@@ -1,4 +1,6 @@
 collections:
   kanal:
     output: true
+sass:
+  style: :compressed
 baseurl: "http://start.learn.id"
