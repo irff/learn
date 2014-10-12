@@ -137,10 +137,8 @@ order: 2
 - [The Freelance Web](http://www.thefreelanceweb.com/)
 - [Iterate](http://www.imore.com/iterate)
 - [Rookie Designer](http://www.rookiedesigner.com/rookie/)
-- [You Suck at Web Design](http://www.yousuckatwebdesign.com/)
 - [The Industry Podcast](http://theindustry.cc/category/podcast/)
 - [The Rissington Podcast (Tamat)](http://therissingtonpodcast.co.uk/)
-
 
 ### Videocast
 - [Web Design TV](http://www.netmag.co.uk/zine/podcast)
