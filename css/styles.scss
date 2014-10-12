@@ -12,6 +12,7 @@
 
 $primary: #ff2d55;
 $link: #1d62f0;
+$link-visited: $primary;
 $text: #333;
 $white: #fff;
 $gray-ea: #eaeaea;
@@ -36,8 +37,14 @@ body {
 
 a {
 	text-decoration: none;
-	color: $link;
-	border-bottom: 1px solid $link;
+	&:link {
+		color: $link;
+		border-bottom: 1px solid $link;
+	}
+	&:visited {
+		color: $link-visited;
+		border-bottom: 1px solid $link-visited;
+	}
 }
 
 h1, h2, h3, h4, h5, h6, p {
@@ -47,7 +54,7 @@ h1, h2, h3, h4, h5, h6, p {
 ol, ul {
 	margin: 5px 0 20px;
 	list-style-position: inside;
-	padding-left: 3px;
+	padding-left: 3	px;
 	li {
 		margin: 5px 0;
 	}
@@ -57,6 +64,12 @@ h1 {
 	text-align: center;
 }
 
+header {
+	h1 {
+		margin: 15px 0;
+	}
+}
+
 header, footer {
 	padding: 15px 30px;
 	background-color: $primary;
@@ -64,6 +77,10 @@ header, footer {
 	a {
 		border-bottom: 1px solid $white;
 		color: $white;
+		&:visited {
+			color: $white;
+			border-bottom: 1px solid $white;
+		}
 	}
 }
 
