@@ -10,6 +10,7 @@ order: 3
 - [Web Standard Curricullum](http://teach.webstandards.org/curriculum/)
 
 ### Responsive Design
+- [Responsive Resources](http://bradfrost.github.io/this-is-responsive/resources.html)
 - [Build a Responsive Website in a Week](https://github.com/paulrobertlloyd/roadtrip)
 
 ### Version Control
@@ -34,7 +35,9 @@ order: 3
 - [Can I use](http://caniuse.com/)
 - [Stylify Me](http://stylifyme.com/)
 - [Modern.IE](https://www.modern.ie/en-us)
-
+- [Bounce.js](http://bouncejs.com/)
+- [Am I Responsive](http://ami.responsivedesign.is/)
+- [Convert ICO](http://www.convertico.com/)
 
 ### Text Editors
 - [Notepad++](http://notepad-plus-plus.org/)
@@ -55,6 +58,12 @@ order: 3
 - [Eclipse IDE](http://www.eclipse.org/)
 - [Aptana IDE](http://www.aptana.com/)
 - [Visual Studio IDE](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx)
+
+### jQuery Plugins
+- [jQuery Easing](http://gsgd.co.uk/sandbox/jquery/easing/)
+
+### Great Resources
+- [Snazzy Maps](http://snazzymaps.com/)
 
 ### Referensi & Dokumentasi
 - [DevDocs](http://devdocs.io/)

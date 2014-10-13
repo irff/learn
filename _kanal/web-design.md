@@ -14,6 +14,9 @@ order: 2
 - [Tutsplus: Web Design Theory](http://webdesign.tutsplus.com/series/web-design-theory--webdesign-2002)
 - [Design by Typing](http://designbytyping.com/)
 
+### Adobe Photoshop
+- [Photoshop Etiquette](http://photoshopetiquette.com/)
+
 ### UX Design
 - [52 Weeks of UX](http://52weeksofux.com/tagged/week_1)
 - [Gibbon Playlist: UX Essentials](https://gibbon.co/moeribeiro/ux-essentials)
@@ -22,11 +25,12 @@ order: 2
 - [Tutsplus: UX Foundation](https://webdesign.tutsplus.com/series/ux-foundations--webdesign-8418)
 
 ### Teori Warna
-- [Color Matters](http://colormatters.com/)
-- [Rocket Design: Color Template](http://www.rocket-design.fr/color-template/)
-- [Hailpixel: Colorpicking Tool](http://color.hailpixel.com/)
-- [Colour Code](http://colourco.de/)
 - [Adobe Kuler](https://color.adobe.com/create/color-wheel/)
+- [Spectral](http://jxnblk.com/Spectral/)
+- [Color Matters](http://colormatters.com/)
+- [Hailpixel: Colorpicking Tool](http://color.hailpixel.com/)
+- [Rocket Design: Color Template](http://www.rocket-design.fr/color-template/)
+- [Colour Code](http://colourco.de/)
 - [Paletton](http://paletton.com/)
 - [0 to 255](http://0to255.com/)
 - [Colllor](http://colllor.com/)
@@ -34,6 +38,7 @@ order: 2
 - [iOS 7 Colors](http://ios7colors.com/)
 - [Brand Colors](http://brandcolors.net/)
 - [Flat UI Colors](http://flatuicolors.com/)
+- [UI Gradients](http://uigradients.com/)
 - [Inspiration: The Day's Color](http://www.thedayscolor.com/)
 - [Inspiration: Design Seeds](http://design-seeds.com/)
 - [Inspiration: Colour Lovers](http://www.colourlovers.com/)
@@ -97,6 +102,7 @@ order: 2
 - [Zoomy Images](http://zoomyimages.com/)
 
 ### Icons
+- [We Love Icon Fonts](http://weloveiconfonts.com/)
 - [Open Iconic](https://useiconic.com/open/)
 - [Icomoon](https://icomoon.io/)
 - [Font Custom](http://fontcustom.com/)
@@ -109,10 +115,16 @@ order: 2
 - [The Noun Project](http://thenounproject.com/)
 - [Flaticon](http://www.flaticon.com/)
 - [Batch](http://adamwhitcroft.com/batch/)
+- [Fontastic](http://fontastic.me/)
 
 ### Assets, Textures, Patterns
 - [Texture Vault](http://www.texturevault.net/)
 - [Subtle Patterns](http://subtlepatterns.com/)
+
+### Dummy Text Generators
+- [Choose Your Ipsum](http://idsgn.dropmark.com/107)
+- [Random Text Generator](http://randomtextgenerator.com/)
+- [UI Names](http://uinames.com/)
 
 ### Conference & Talk Videos
 - [99U](http://99u.com/)
@@ -158,3 +170,8 @@ order: 2
 - [Pixel Perfect](http://revision3.com/pixelperfect/)
 - [Photoshop Killer Tips](http://www.photoshopkillertips.com/)
 - [You Suck at Photoshop](http://www.mydamnchannel.com/Big_Fat_Brain/You_Suck_at_Photoshop/YouSuckAtPhotoshop10_615.aspx)
+
+### Belum Dikelompokkan
+- [Photoshop Griddify](http://gelobi.org/griddify/)
+- [UX Quotes](http://www.uxquotes.com/?)
+- [Web Designers' Checklist](http://webdesignerschecklist.com/)
