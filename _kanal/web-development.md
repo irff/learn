@@ -18,14 +18,22 @@ order: 3
 - [Git Flow Cheatseet](http://danielkummer.github.io/git-flow-cheatsheet/)
 - [Learn Git Branching](http://pcottle.github.io/learnGitBranching/?demo)
 
-### Tools
+### Workflow
 - [Yeoman](http://yeoman.io/)
 - [Grunt](http://gruntjs.com/)
 - [Gulp](http://gulpjs.com/)
-- [Bower](http://bower.io/)
+- [Bower Package Manager](http://bower.io/)
+- [Duo Package Manager](http://duojs.org/)
 - [Roots](http://roots.cx/)
 - [JSLint](http://jslint.com/)
 - [JSHint](http://jshint.com/)
+
+### Tools
+- [Image Compressor: Compressor.io](Compressor.io )
+- [Performance Tooling](http://perf-tooling.today/)
+- [Can I use](http://caniuse.com/)
+- [Stylify Me](http://stylifyme.com/)
+- [Modern.IE](https://www.modern.ie/en-us)
 
 
 ### Text Editors
@@ -48,13 +56,12 @@ order: 3
 - [Aptana IDE](http://www.aptana.com/)
 - [Visual Studio IDE](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx)
 
-
-
 ### Referensi & Dokumentasi
 - [DevDocs](http://devdocs.io/)
 - [Web Platform](http://www.webplatform.org/)
-- [SASS Documentation](http://sass-lang.com/documentation/)
+- [SASS Docs](http://sass-lang.com/documentation/)
 - [Wordpress Codex](http://codex.wordpress.org/)
+- [Sublime Text Docs](https://sublime-text-unofficial-documentation.readthedocs.org)
 - [Emmet Docs](http://docs.emmet.io/)
 
 ### Podcast

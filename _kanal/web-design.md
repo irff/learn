@@ -34,6 +34,7 @@ order: 2
 - [iOS 7 Colors](http://ios7colors.com/)
 - [Brand Colors](http://brandcolors.net/)
 - [Flat UI Colors](http://flatuicolors.com/)
+- [Inspiration: The Day's Color](http://www.thedayscolor.com/)
 - [Inspiration: Design Seeds](http://design-seeds.com/)
 - [Inspiration: Colour Lovers](http://www.colourlovers.com/)
 - [Inspiration: Color Combos](http://www.colorcombos.com/)
@@ -60,6 +61,10 @@ order: 2
 - [Dribbble](https://dribbble.com/)
 - [Behance](https://www.behance.net/)
 - [Niice](https://niice.co/)
+
+### Design Patterns
+- [Use Your Interface](http://useyourinterface.com/)
+- [Pattern Tap](http://patterntap.com/)
 
 ### Stock Photos
 - [Unsplash](http://unsplash.com/)
@@ -105,6 +110,10 @@ order: 2
 - [Flaticon](http://www.flaticon.com/)
 - [Batch](http://adamwhitcroft.com/batch/)
 
+### Assets, Textures, Patterns
+- [Texture Vault](http://www.texturevault.net/)
+- [Subtle Patterns](http://subtlepatterns.com/)
+
 ### Conference & Talk Videos
 - [99U](http://99u.com/)
 - [Creative Mornings](http://creativemornings.com/)
@@ -137,6 +146,7 @@ order: 2
 - [The Freelance Web](http://www.thefreelanceweb.com/)
 - [Iterate](http://www.imore.com/iterate)
 - [Rookie Designer](http://www.rookiedesigner.com/rookie/)
+- [Responsive Web Design Podcast](http://responsivewebdesign.com/podcast/)
 - [The Industry Podcast](http://theindustry.cc/category/podcast/)
 - [The Rissington Podcast (Tamat)](http://therissingtonpodcast.co.uk/)
 
