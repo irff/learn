@@ -22,6 +22,7 @@ order: 3
 - [JS The Right Way](http://jstherightway.org/)
 - [Human JS](http://read.humanjavascript.com/)
 - [JS Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [Crockford on Javascript](http://yuiblog.com/crockford/)
 
 ### jQuery
 - [Try jQuery](http://try.jquery.com/)
@@ -46,6 +47,7 @@ order: 3
 - [Bounce.js](http://bouncejs.com/)
 - [Am I Responsive](http://ami.responsivedesign.is/)
 - [Convert ICO](http://www.convertico.com/)
+- [Underscore.js](http://documentcloud.github.io/underscore/)
 
 ### jQuery Plugins
 - [jQuery Easing](http://gsgd.co.uk/sandbox/jquery/easing/)
@@ -54,19 +56,41 @@ order: 3
 - [Snazzy Maps](http://snazzymaps.com/)
 
 ### Javascript Frameworks
+- [Journey Through JS MVC Frameworks](http://www.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/)
+- [TodoMVC](http://todomvc.com/)
 
 ### AngularJS
+- [AngularJS Official Tutorial](https://docs.angularjs.org/tutorial)
+- [Code School: AngularJS](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
+- [Egghead.io Videos](https://egghead.io/lessons)
+- [A Better Way to Learn AngularJS](https://thinkster.io/angulartutorial/a-better-way-to-learn-angularjs/)
+- [AngularJS in 7 Days](http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html)
+- [How to Learn AngularJS](http://www.ng-newsletter.com/posts/how-to-learn-angular.html)
 
 ### BackboneJS
+- [Backbone.js for Absolute Beginner](http://adrianmejia.com/blog/2012/09/11/backbone-dot-js-for-absolute-beginners-getting-started/)
+- [Developing Backbone.js Applications (Free Ebook)](http://addyosmani.github.io/backbone-fundamentals/)
 
 ### EmberJS
+- [Ember.js Official Guide](http://emberjs.com/guides/getting-started/)
+- [Ember 101](http://ember101.com/)
+- [In Depth Introduction to Ember.js](http://www.smashingmagazine.com/2013/11/07/an-in-depth-introduction-to-ember-js/)
+
+### Meteor
+- [Building an App in 45 Minutes with Meteor](http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/)
+
+### Knockout.js
+- [Official Site](http://knockoutjs.com/)
+- [Knockout.js Official Tutorial](http://learn.knockoutjs.com/)
 
 ### React
-
 
 ## PHP
 
 ## Ruby on Rails
+
+### Beginner
+- [Ruby on Rails Guides](http://guides.rubyonrails.org/)
 
 ## Node.js
 
@@ -75,13 +99,39 @@ order: 3
 - [Node School](http://nodeschool.io/)
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node)
 - [Felix's Node.js Guide](http://nodeguide.com/)
+- [CodeSchool: Learn Node](http://node.codeschool.com/)
 - [NodeTuts (Screencasts)](http://nodetuts.com/)
 - [NodeCasts (Screencasts)](http://nodecasts.net/)
+- [Mastering Node.js (Incompleted)](http://visionmedia.github.io/masteringnode/)
 
 ### Advanced Node.js
 - [Node.js Production Practices](https://www.joyent.com/developers/node/design)
 - [Node.js Documentation](http://nodejs.org/api/)
 - [Learn All the Nodes](http://www.learnallthenodes.com/)
+- [Node.js Help Sheet](https://www.gosquared.com/blog/panic-over-node-js-help-sheet-is-here)
+
+### Node.js Tools
+- [Node Packaged Modules](https://www.npmjs.org/)
+- [Node Modules on Github](http://eirikb.github.io/nipster/)
+- [Node Modules Better Search](http://node-modules.com/)
+- [Node Express Boilerplate](https://github.com/mape/node-express-boilerplate)
+- [Socket.io](http://socket.io/)
+- [Mongoose](https://github.com/LearnBoost/mongoose)
+- [Formaline](https://github.com/coolaj86/formaline)
+- [Log.io](http://logio.org/)
+- [LDAP.js](http://ldapjs.org/)
+- [Node Supervisor](https://github.com/isaacs/node-supervisor)
+- [Jade Templating Engine](http://jade-lang.com/)
+- [Async](https://github.com/caolan/async)
+- [Streamline.js](https://github.com/Sage/streamlinejs)
+- [Forever](https://github.com/nodejitsu/forever)
+- [PDF Kit](http://pdfkit.org/)
+
+### Node.js Framework
+- [Express.js Framework](http://expressjs.com/)
+- [Bricks.js Framework](http://bricksjs.com/index.html)
+- [Geddy.js Framework](http://geddyjs.org/)
+
 
 ## Python
 
@@ -126,9 +176,10 @@ order: 3
 - [Responsive Resources](http://bradfrost.github.io/this-is-responsive/resources.html)
 - [Build a Responsive Website in a Week](https://github.com/paulrobertlloyd/roadtrip)
 
-### Version Control
+### Version Control: Git
 - [Free eBook: Learn Version Control with Git](http://www.git-tower.com/learn/)
 - [Free eBook: Pro Git](http://git-scm.com/book)
+- [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/)
 - [Git Flow Cheatseet](http://danielkummer.github.io/git-flow-cheatsheet/)
 - [Learn Git Branching](http://pcottle.github.io/learnGitBranching/?demo)
 
