@@ -4,14 +4,17 @@ title: HTML & CSS
 order: 1
 ---
 
-## HTML & CSS
+# HTML & CSS
 
 ### Tutorial HTML & CSS Dasar
 - [Shay Howe: Learn to Code HTML & CSS](http://learn.shayhowe.com/)
 - [Web Platform CSS Tutorial](http://docs.webplatform.org/wiki/css/tutorials)
+- [Codecademy: Learn HTML & CSS](http://www.codecademy.com/en/tracks/web)
+- [Free Ebook: Belajar & HTML CSS](http://www.ariona.net/ebook-belajar-html-dan-css/)
 
 ### CSS Lanjut
 - [The Magic of CSS](http://adamschwartz.co/magic-of-css/)
+- [Learn CSS Layout](http://learnlayout.com/)
 
 ### CSS3
 - [Tutsplus: CSS3 Mastery](http://code.tutsplus.com/series/css3-mastery--net-18126)

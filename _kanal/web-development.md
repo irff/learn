@@ -4,20 +4,18 @@ title: Web Development
 order: 3
 ---
 
-## Web Development
+# Web Development
 
-### Web Standard
-- [Web Standard Curricullum](http://teach.webstandards.org/curriculum/)
+## Javascript
 
-### Responsive Design
-- [Responsive Resources](http://bradfrost.github.io/this-is-responsive/resources.html)
-- [Build a Responsive Website in a Week](https://github.com/paulrobertlloyd/roadtrip)
+### Tutorial Javascript Dasar
+- [Learn JS](http://www.learn-js.org/)
+- [Mozilla Javascipt Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+- [Teaching Materials: Javascript](http://www.teaching-materials.org/javascript/)
 
-### Version Control
-- [Free eBook: Learn Version Control with Git](http://www.git-tower.com/learn/)
-- [Free eBook: Pro Git](http://git-scm.com/book)
-- [Git Flow Cheatseet](http://danielkummer.github.io/git-flow-cheatsheet/)
-- [Learn Git Branching](http://pcottle.github.io/learnGitBranching/?demo)
+### Javascript Lanjutan
+- [Learn Advanced Javascript](http://ejohn.org/apps/learn/)
 
 ### Workflow
 - [Yeoman](http://yeoman.io/)
@@ -39,6 +37,28 @@ order: 3
 - [Am I Responsive](http://ami.responsivedesign.is/)
 - [Convert ICO](http://www.convertico.com/)
 
+### jQuery Plugins
+- [jQuery Easing](http://gsgd.co.uk/sandbox/jquery/easing/)
+
+### Great Resources
+- [Snazzy Maps](http://snazzymaps.com/)
+
+### Javascript Frameworks
+
+### AngularJS
+
+## PHP
+
+## Ruby on Rails
+
+## Node.js
+
+### Beginner
+- [Felix's Node.js Guide](http://nodeguide.com/)
+
+
+## General
+
 ### Text Editors
 - [Notepad++](http://notepad-plus-plus.org/)
 - [Sublime Text](http://www.sublimetext.com/)
@@ -59,12 +79,6 @@ order: 3
 - [Aptana IDE](http://www.aptana.com/)
 - [Visual Studio IDE](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx)
 
-### jQuery Plugins
-- [jQuery Easing](http://gsgd.co.uk/sandbox/jquery/easing/)
-
-### Great Resources
-- [Snazzy Maps](http://snazzymaps.com/)
-
 ### Referensi & Dokumentasi
 - [DevDocs](http://devdocs.io/)
 - [Web Platform](http://www.webplatform.org/)
@@ -72,6 +86,19 @@ order: 3
 - [Wordpress Codex](http://codex.wordpress.org/)
 - [Sublime Text Docs](https://sublime-text-unofficial-documentation.readthedocs.org)
 - [Emmet Docs](http://docs.emmet.io/)
+
+### Web Standard
+- [Web Standard Curricullum](http://teach.webstandards.org/curriculum/)
+
+### Responsive Design
+- [Responsive Resources](http://bradfrost.github.io/this-is-responsive/resources.html)
+- [Build a Responsive Website in a Week](https://github.com/paulrobertlloyd/roadtrip)
+
+### Version Control
+- [Free eBook: Learn Version Control with Git](http://www.git-tower.com/learn/)
+- [Free eBook: Pro Git](http://git-scm.com/book)
+- [Git Flow Cheatseet](http://danielkummer.github.io/git-flow-cheatsheet/)
+- [Learn Git Branching](http://pcottle.github.io/learnGitBranching/?demo)
 
 ### Podcast
 - [Javascript Jabber](http://javascriptjabber.com/)
@@ -89,3 +116,4 @@ order: 3
 ### Videocast
 - [Lynda.com](http://www.lynda.com/podcasts/)
 - [Build Podcast](http://build-podcast.com/)
+- [Rails Cast](http://railscasts.com/)
