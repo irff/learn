@@ -23,6 +23,8 @@ order: 2
 - [Gibbon Playlist: UX Design from A to Z](https://gibbon.co/wdeb/user-experience-design-from-a-z)
 - [An Introduction to the User Experience](http://courses.theteamw.com/an-introduction-to-the-user-experience)
 - [Tutsplus: UX Foundation](https://webdesign.tutsplus.com/series/ux-foundations--webdesign-8418)
+- [UX Crash Course: 31 Fundamentals](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals)
+- [UX Crash Course: User Psychology](http://thehipperelement.com/post/87574750438/ux-crash-course-user-psychology)
 
 ### Teori Warna
 - [Adobe Kuler](https://color.adobe.com/create/color-wheel/)
@@ -47,6 +49,26 @@ order: 2
 ### Teori Warna: Bacaan
 - [Tutsplus: Introduction to Color Theory for Web Designers](http://webdesign.tutsplus.com/articles/an-introduction-to-color-theory-for-web-designers--webdesign-1437)
 - [Smashing Magazine: Color Theory for Designers](http://www.smashingmagazine.com/2010/01/28/color-theory-for-designers-part-1-the-meaning-of-color/)
+
+### Typography
+- [Web Typography](http://webtypography.net/)
+- [Tutsplus: Web Typography](http://webdesign.tutsplus.com/series/a-z-of-web-typography--webdesign-11706)
+- [Typography Demo](http://www.visualgui.com/typography/)
+- [Blog Typography](http://www.kaikkonendesign.fi/typography/)
+- [Butteric's Practical Typography](http://practicaltypography.com/)
+- [Typewolf](http://www.typewolf.com/)
+- [I Love Typography](http://ilovetypography.com/)
+- [Nice Web Type](http://nicewebtype.com/)
+- [Typecast](http://typecast.com/)
+- [Web Font Specimen](http://webfontspecimen.com/)
+
+
+### Advanced Web Typography
+- [Responsive Web Typography](http://www.elliotjaystocks.com/blog/responsive-web-typography/)
+- [Justification & Hyphenation](http://www.elliotjaystocks.com/blog/justification-hyphenation/)
+- [Kerning](http://www.elliotjaystocks.com/blog/kerning/)
+- [Opentype Features](http://www.elliotjaystocks.com/blog/a-recap-on-opentype-features/)
+- [Beginner's Guide to OpenType](http://www.magnetstudio.com/2014/03/22/beginners-guide-to-opentype/)
 
 ### Koleksi & Inspirasi
 - [Media Queries](http://mediaqueri.es/)

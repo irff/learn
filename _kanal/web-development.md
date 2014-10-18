@@ -9,10 +9,12 @@ order: 3
 ## Javascript
 
 ### Tutorial Javascript Dasar
+- [Codecademy: JS](http://www.codecademy.com/tracks/javascript)
 - [Learn JS](http://www.learn-js.org/)
 - [Mozilla: JS Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 - [JS Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 - [Teaching Materials: JS](http://www.teaching-materials.org/javascript/)
+- [Code Avengers: JS](http://www.codeavengers.com/javascript/)
 
 ### Javascript Lanjutan
 - [Mozilla: Reintroduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
@@ -26,7 +28,7 @@ order: 3
 
 ### jQuery
 - [Try jQuery](http://try.jquery.com/)
-
+- [Codecademy: jQuery](http://www.codecademy.com/tracks/jquery)
 
 ### Workflow
 - [Yeoman](http://yeoman.io/)
@@ -181,7 +183,9 @@ order: 3
 - [Free eBook: Pro Git](http://git-scm.com/book)
 - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/)
 - [Git Flow Cheatseet](http://danielkummer.github.io/git-flow-cheatsheet/)
-- [Learn Git Branching](http://pcottle.github.io/learnGitBranching/?demo)
+- [Git Ready](http://gitready.com/)
+- [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
+- [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model/)
 
 ### Podcast
 - [Javascript Jabber](http://javascriptjabber.com/)

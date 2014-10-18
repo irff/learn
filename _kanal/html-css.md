@@ -50,6 +50,19 @@ order: 1
 - [LESS](http://lessjs.org/)
 - [Stylus](http://learnboost.github.io/stylus/)
 
+### SASS
+- [SASS Official Tutorial](http://sass-lang.com/guide)
+- [The SASS Way](http://thesassway.com/guides)
+- [Code School: Assembling SASS](https://www.codeschool.com/courses/assembling-sass)
+- [Level Up Tuts: SASS TUtorial](http://leveluptuts.com/tutorials/sass-tutorials)
+- [Tutsplus: Masetering SASS](http://code.tutsplus.com/series/mastering-sass--net-19077)
+
+### LESS
+- [LESS Official Tutorial](http://lesscss.org/)
+- [Tutsplus: Get into LESS](http://webdesign.tutsplus.com/articles/get-into-less-the-programmable-stylesheet-language--webdesign-5216)
+- [Introduction to LESS & Comparison to SASS](http://www.smashingmagazine.com/2011/09/09/an-introduction-to-less-and-comparison-to-sass/)
+- [LESS Tutorial Collections](http://www.cssauthor.com/less-tutorials/)
+- [LESS Toolbox & Resources](http://speckyboy.com/2014/04/23/less-css-preprocessor-toolbox/)
 
 ### Arsitektur CSS
 - [Object Oriented CSS](http://oocss.org/)

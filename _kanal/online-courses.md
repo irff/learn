@@ -5,10 +5,11 @@ order: 10000
 ---
 
 ### Online Course
+- [Codecademy (All Free)](http://www.codecademy.com/)
+- [Level Up Tuts (All Free)](http://leveluptuts.com/)
 - [Code.org](http://code.org/)
 - [Treehouse](http://teamtreehouse.com/)
 - [Code School](https://www.codeschool.com/)
-- [Codecademy](http://www.codecademy.com/)
 - [Tutsplus](http://tutsplus.com/)
 - [Udacity](https://www.udacity.com/)
 - [Thinkful](http://www.thinkful.com/learn)
