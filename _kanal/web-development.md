@@ -10,12 +10,22 @@ order: 3
 
 ### Tutorial Javascript Dasar
 - [Learn JS](http://www.learn-js.org/)
-- [Mozilla Javascipt Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-- [Javascript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
-- [Teaching Materials: Javascript](http://www.teaching-materials.org/javascript/)
+- [Mozilla: JS Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [JS Garden](http://bonsaiden.github.io/JavaScript-Garden/)
+- [Teaching Materials: JS](http://www.teaching-materials.org/javascript/)
 
 ### Javascript Lanjutan
-- [Learn Advanced Javascript](http://ejohn.org/apps/learn/)
+- [Mozilla: Reintroduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- [Mozilla: Object Oriented JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
+- [Learn Advanced JS](http://ejohn.org/apps/learn/)
+- [Superhero.js](http://superherojs.com/)
+- [JS The Right Way](http://jstherightway.org/)
+- [Human JS](http://read.humanjavascript.com/)
+- [JS Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+
+### jQuery
+- [Try jQuery](http://try.jquery.com/)
+
 
 ### Workflow
 - [Yeoman](http://yeoman.io/)
@@ -47,6 +57,13 @@ order: 3
 
 ### AngularJS
 
+### BackboneJS
+
+### EmberJS
+
+### React
+
+
 ## PHP
 
 ## Ruby on Rails
@@ -54,8 +71,23 @@ order: 3
 ## Node.js
 
 ### Beginner
+- [Node Beginner Book](http://www.nodebeginner.org/)
+- [Node School](http://nodeschool.io/)
+- [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node)
 - [Felix's Node.js Guide](http://nodeguide.com/)
+- [NodeTuts (Screencasts)](http://nodetuts.com/)
+- [NodeCasts (Screencasts)](http://nodecasts.net/)
 
+### Advanced Node.js
+- [Node.js Production Practices](https://www.joyent.com/developers/node/design)
+- [Node.js Documentation](http://nodejs.org/api/)
+- [Learn All the Nodes](http://www.learnallthenodes.com/)
+
+## Python
+
+### Beginner
+- [Codecademy: Learn Python](http://www.codecademy.com/courses/introduction-to-python-6WeG3/0/1)
+- [Learn Python in Y Minutes](http://learnxinyminutes.com/docs/python/)
 
 ## General
 
@@ -112,6 +144,7 @@ order: 3
 - [In Beta](http://5by5.tv/inbeta)
 - [Ruby on Rails Podcast](http://5by5.tv/rubyonrails)
 - [Upfront Podcast](http://upfrontpodcast.com/)
+- [Node Up](http://nodeup.com/)
 
 ### Videocast
 - [Lynda.com](http://www.lynda.com/podcasts/)
