@@ -16,7 +16,10 @@ order: 4
 ## News & Blogs
 - [TechCrunch](http://techcrunch.com/)
 - [DailySocial](http://dailysocial.net/)
+- [TechInAsia](https://www.techinasia.com/)
 - [TechInAsia ID](http://id.techinasia.com/)
+- [Pando Daily](http://pando.com/)
+- [VentureBeat](http://venturebeat.com/)
 
 ## Podcasts
 - [Entrepreneurship Corner](http://ecorner.stanford.edu/)
