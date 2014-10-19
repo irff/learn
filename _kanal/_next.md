@@ -1,8 +1,3 @@
-### Tutorial Javascript
-### Javascript Framework
-### Web Performance
-### Template Engines
-
 Kanal baru
 ## Graphic Design
 	### Layout
@@ -25,9 +20,3 @@ Kanal baru
 ## Ilustrasi
 ## Pengembangan Game
 ## Meetup
-
-Halaman baru
-## Manifesto
-## Tentang Learn.id
-## Inspirasi
-## Ketentuan Layanan ?
