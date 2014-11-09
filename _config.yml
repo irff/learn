@@ -3,4 +3,4 @@ collections:
     output: true
 sass:
   style: :compressed
-baseurl: "http://start.learn.id"
+baseurl: "http://learn.id"
