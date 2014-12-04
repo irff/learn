@@ -86,13 +86,36 @@ order: 3
 - [Knockout.js Official Tutorial](http://learn.knockoutjs.com/)
 
 ### React
+- [Official Site](http://facebook.github.io/react)
+- [React Getting Started](http://facebook.github.io/react/docs/getting-started.html)
+- [ReactJS.NET](http://reactjs.net/)
 
 ## PHP
+
+### Beginner PHP
+- [W3School PHP Tutorial](http://www.w3schools.com/php/)
+- [Code Academy: PHP](http://www.codecademy.com/en/tracks/php)
+- [Learn-php.org](http://www.learn-php.org/)
+- [PHP Documentation](http://php.net/docs.php)
+
+### Advanced PHP
+- [PHP: The Right Way](http://www.phptherightway.com/)
+
+## MySQL
+- [W3School SQL Tutorial](http://www.w3schools.com/sql/default.asp)
+- [Tutorials Point SQL Tutorial](http://www.tutorialspoint.com/sql/)
+- [SQL Zoo](http://sqlzoo.net/wiki/Main_Page)
+- [Database Design with UML and SQL](http://www.tomjewett.com/dbdesign/dbdesign.php?page=intro.html)
+- [Learn SQL The Hard Way](http://sql.learncodethehardway.org/book/)
+- [MySQL Documentation](http://dev.mysql.com/doc/)
+- [SQL for Web Nerds](http://philip.greenspun.com/sql/)
 
 ## Ruby on Rails
 
 ### Beginner
 - [Ruby on Rails Guides](http://guides.rubyonrails.org/)
+- [Rails for Zombies](http://railsforzombies.org/)
+- [Tutorials Point: Ruby on Rails](http://www.tutorialspoint.com/ruby-on-rails/)
 
 ## Node.js
 
@@ -101,7 +124,8 @@ order: 3
 - [Node School](http://nodeschool.io/)
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node)
 - [Felix's Node.js Guide](http://nodeguide.com/)
-- [CodeSchool: Learn Node](http://node.codeschool.com/)
+- [CodeSchool: Learn Node (Paid)](http://node.codeschool.com/)
+- [Learn all the Node (Screencast)](http://www.learnallthenodes.com/)
 - [NodeTuts (Screencasts)](http://nodetuts.com/)
 - [NodeCasts (Screencasts)](http://nodecasts.net/)
 - [Mastering Node.js (Incompleted)](http://visionmedia.github.io/masteringnode/)
@@ -111,6 +135,7 @@ order: 3
 - [Node.js Documentation](http://nodejs.org/api/)
 - [Learn All the Nodes](http://www.learnallthenodes.com/)
 - [Node.js Help Sheet](https://www.gosquared.com/blog/panic-over-node-js-help-sheet-is-here)
+- [NodeUp Podcast](http://nodeup.com/)
 
 ### Node.js Tools
 - [Node Packaged Modules](https://www.npmjs.org/)
@@ -123,7 +148,6 @@ order: 3
 - [Log.io](http://logio.org/)
 - [LDAP.js](http://ldapjs.org/)
 - [Node Supervisor](https://github.com/isaacs/node-supervisor)
-- [Jade Templating Engine](http://jade-lang.com/)
 - [Async](https://github.com/caolan/async)
 - [Streamline.js](https://github.com/Sage/streamlinejs)
 - [Forever](https://github.com/nodejitsu/forever)
@@ -131,9 +155,9 @@ order: 3
 
 ### Node.js Framework
 - [Express.js Framework](http://expressjs.com/)
+- [Koa.js Framework](http://koajs.com/)
 - [Bricks.js Framework](http://bricksjs.com/index.html)
 - [Geddy.js Framework](http://geddyjs.org/)
-
 
 ## Python
 
@@ -171,6 +195,16 @@ order: 3
 - [Sublime Text Docs](https://sublime-text-unofficial-documentation.readthedocs.org)
 - [Emmet Docs](http://docs.emmet.io/)
 
+### Templating Engines
+- [Mustache](http://mustache.github.io/)
+- [Handlebars](http://handlebarsjs.com/)
+- [Hogan.js](http://twitter.github.io/hogan.js/)
+- [Jade](http://jade-lang.com/)
+- [Dustjs](http://linkedin.github.io/dustjs/)
+- [Underscore.js](http://underscorejs.org/)
+- [Embedded JavaScript (EJS)](http://www.embeddedjs.com/)
+- [Nunjucks](http://mozilla.github.io/nunjucks/)
+
 ### Web Standard
 - [Web Standard Curricullum](http://teach.webstandards.org/curriculum/)
 
@@ -182,6 +216,7 @@ order: 3
 - [Free eBook: Learn Version Control with Git](http://www.git-tower.com/learn/)
 - [Free eBook: Pro Git](http://git-scm.com/book)
 - [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/)
+- [Git for Everyone](http://anotheruiguy.gitbooks.io/gitforeveryone/content/)
 - [Git Flow Cheatseet](http://danielkummer.github.io/git-flow-cheatsheet/)
 - [Git Ready](http://gitready.com/)
 - [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
