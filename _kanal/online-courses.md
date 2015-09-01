@@ -6,6 +6,8 @@ order: 10000
 
 ### Online Course
 - [Codecademy (All Free)](http://www.codecademy.com/)
+- [Coursera (All Free)](https://www.coursera.org/)
+- [Khan Academy (All Free)](https://www.khanacademy.org/)
 - [Level Up Tuts (All Free)](http://leveluptuts.com/)
 - [Code.org](http://code.org/)
 - [Treehouse](http://teamtreehouse.com/)

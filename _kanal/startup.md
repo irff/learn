@@ -1,7 +1,7 @@
 ---
 layout: kanal
 title: Startup
-order: 5
+order: 6
 ---
 
 # Startup
